@@ -16,7 +16,7 @@ paramters we are sampling for. I include a simple example of getting
 values somewhat arbitrarily in 2-d space show below:
 
 ### Capacity
-![](plots/capactiy.png)
+![](plots/capacity.png)
 
 ### Profit
 ![](plots/profit.png)
